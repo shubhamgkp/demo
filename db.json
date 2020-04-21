@@ -14,7 +14,7 @@
     "firstName": "Shubham",
     "lastName": "Verma",
     "age": "30",
-    "adr": "Gurgaon, Haryana",
+    "adr": "Gurgaon Haryana",
     "id": "4321"
   },
   {
@@ -22,7 +22,7 @@
     "firstName": "Shubham",
     "lastName": "Verma",
     "age": "30",
-    "adr": "Gorakhpur, UP",
+    "adr": "Gorakhpur UP",
     "id": "1234"
   }
 ]
