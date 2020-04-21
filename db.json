@@ -9,6 +9,11 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "id": "4321"
+    "desig": "Senior QA",
+    "firstName": "Shubham",
+    "lastName": "Verma",
+    "age": "30",
+    "adr": "Gurgaon, Haryana"
   }
 }
