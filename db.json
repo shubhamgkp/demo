@@ -8,7 +8,8 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
+  "profile": [
+    {
      "desig": "Senior QA",
     "firstName": "Shubham",
     "lastName": "Verma",
@@ -24,4 +25,4 @@
     "adr": "Gorakhpur, UP",
     "id": "1234"
   }
-}
+]
